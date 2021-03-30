@@ -1,2 +1,2 @@
 # C-codes
-Thisis the coding i did in my first sem
+This is the coding i did in my first sem
